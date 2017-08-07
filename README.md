@@ -5,7 +5,7 @@
 ------------------------------
 ### `Demo`
 
-<img src="https://github.com/oOBobbyOo/particlesJS/assets/demo.png" alt="particles.js" /></a>
+<img src="https://github.com/oOBobbyOo/particlesJS/blob/master/assets/demo.png" alt="particles.js" /></a>
 
 
 CodePen demo: <br />
